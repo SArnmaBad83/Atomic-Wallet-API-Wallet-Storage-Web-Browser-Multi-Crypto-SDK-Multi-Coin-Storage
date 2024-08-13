@@ -1,0 +1,4 @@
+D:\GithubNew\1\Atomic-Wallet\Atomic-Wallet\Atomic Wallet\obj\Debug\net5.0\Atomic-Wallet.GeneratedMSBuildEditorConfig.editorconfig
+D:\GithubNew\1\Atomic-Wallet\Atomic-Wallet\Atomic Wallet\obj\Debug\net5.0\Atomic-Wallet.AssemblyInfoInputs.cache
+D:\GithubNew\1\Atomic-Wallet\Atomic-Wallet\Atomic Wallet\obj\Debug\net5.0\Atomic-Wallet.AssemblyInfo.cs
+D:\GithubNew\1\Atomic-Wallet\Atomic-Wallet\Atomic Wallet\obj\Debug\net5.0\Atomic-Wallet.csproj.CoreCompileInputs.cache
